@@ -1,4 +1,12 @@
+In this fork I am going to try to optimize everything as much as i can for low resource laptops. I will list the changes in a nice list
 
+1- prepare.py: I have changed the code so it tokenizes in chunks and then add it to the .bin file. It allows to tokenize any size of .txt file as the file is not being stored in RAM.
+
+
+
+
+Below is the original README
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
