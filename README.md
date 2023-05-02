@@ -2,7 +2,7 @@ CHANGES
 -----------------------------------------------
 In this fork I am going to try to optimize everything as much as i can for low resource laptops. I will list the changes in a nice list
 
-1- prepare.py: I have changed the code so it tokenizes in chunks and then add it to the .bin file. It allows to tokenize any size of .txt file as the file is not being stored in RAM.
+1- prepare.py: I have changed the code so it tokenizes in chunks and then add it to the .bin file. It allows to tokenize any size of .txt file as the file is not being stored in RAM. The new file is stored under data folder and named prepare_V2.py
 
 
 
